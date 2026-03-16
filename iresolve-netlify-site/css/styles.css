@@ -1,0 +1,32 @@
+
+body{font-family:Arial,Helvetica,sans-serif;margin:0;background:#f5f7fb;color:#1c2a39}
+.container{max-width:1100px;margin:auto;padding:40px}
+.nav{background:#0f2d4d;color:white}
+.nav-inner{display:flex;justify-content:space-between;align-items:center}
+.nav a{color:white;margin-left:20px;text-decoration:none}
+
+.hero{background:#0f2d4d;color:white}
+.hero-grid{display:grid;grid-template-columns:70% 30%;align-items:center}
+.hero-right img{max-width:260px;opacity:.35}
+
+.pill-row{margin:20px 0}
+.pill{background:#193c63;padding:8px 14px;border-radius:20px;margin-right:6px;font-size:13px}
+
+.model{background:#1b3d63;padding:20px;border-radius:10px}
+
+.section{padding:60px 0}
+
+.services-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+
+.card{background:white;padding:24px;border-radius:14px}
+
+.market-grid{display:grid;grid-template-columns:1fr 1fr;gap:40px}
+.market-box{background:#0f2d4d;color:white;padding:40px;border-radius:20px}
+
+.engage-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+
+.people-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+
+.person{background:white;padding:24px;border-radius:14px;text-align:center}
+
+.footer{background:#0f2d4d;color:white;text-align:center}
